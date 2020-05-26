@@ -12,3 +12,5 @@ Introduction to Automatic Speech Recognition
 [3] First-Pass Large Vocabulary Continuous Speech Recognition using Bi-Directional Recurrent DNNs
 
 [4] English Conversational Telephone Speech Recognition by Humans and Machines
+
+[5] Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition
