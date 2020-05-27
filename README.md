@@ -22,3 +22,9 @@ Introduction to ASR with Deep Learning
 [7] English Conversational Telephone Speech Recognition by Humans and Machines, [Saon 2017](https://arxiv.org/abs/1703.02136v1)
 
 [8] Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition, [Sak 2015](https://arxiv.org/abs/1507.06947)
+
+**Blogs and Articles**
+
+[9] [Sequence Modeling with Connectionist Temporal Classification](https://distill.pub/2017/ctc/)
+
+[10] [Number of Alignments in Connectionist Temporal Classification](https://leimao.github.io/blog/CTC-Alignment-Combinations/)
