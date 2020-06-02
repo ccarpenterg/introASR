@@ -3,7 +3,7 @@ Introduction to ASR with Deep Learning
 
 ### 1) Introduction to Automatic Speech Recognition
 
-This first notebook introduces some of the fundamental ideas of Automatic Speech Recognition.
+This first notebook introduces some of the fundamental ideas of Automatic Speech Recognition, it focuses on the concepts and mechanisms of the traditional speech systems that were engineered without using deep neural networks. It covers the main concepts of Language Models, N-grams, Hidden Markov Models, Feature Extraction, MFCC features, Gaussian Acoustic Models, Probabilistic Noisy Channel Architecture (Bayes Theorem).
 
 ## References
 
