@@ -1,6 +1,10 @@
 Introduction to ASR with Deep Learning
 ======================================
 
+### 1) Introduction to Automatic Speech Recognition
+
+This first notebook introduces some of the fundamental ideas of Automatic Speech Recognition.
+
 ## References
 
 **Books**
