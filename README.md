@@ -41,4 +41,4 @@ This first notebook introduces some of the fundamental ideas of Automatic Speech
 
 **Lectures**
 
-[12] Neural Networks in Speech Recognition ([Guest lecture by Andrew Maas](https://www.youtube.com/watch?v=6D8_4GkEWUg)). CS224d: NLP with Deep Learning (2015), Stanford University
+[12] Neural Networks in Speech Recognition ([video](https://www.youtube.com/watch?v=6D8_4GkEWUg)). CS224d: NLP with Deep Learning (2015), Stanford University
