@@ -38,3 +38,7 @@ This first notebook introduces some of the fundamental ideas of Automatic Speech
 [10] [Sequence Modeling with Connectionist Temporal Classification](https://distill.pub/2017/ctc/)
 
 [11] [Number of Alignments in Connectionist Temporal Classification](https://leimao.github.io/blog/CTC-Alignment-Combinations/)
+
+**Lectures**
+
+[12] Neural Networks in Speech Recognition ([Guest lecture by Andrew Maas](https://www.youtube.com/watch?v=6D8_4GkEWUg)). CS224d: NLP with Deep Learning (2015), Stanford University
