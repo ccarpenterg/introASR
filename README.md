@@ -41,6 +41,8 @@ This first notebook introduces some of the fundamental ideas of Automatic Speech
 
 [12] [Number of Alignments in Connectionist Temporal Classification](https://leimao.github.io/blog/CTC-Alignment-Combinations/)
 
-**Lectures**
+**Lectures and Presentations**
 
 [13] Neural Networks in Speech Recognition ([video](https://www.youtube.com/watch?v=6D8_4GkEWUg)). CS224d: NLP with Deep Learning (2015), Stanford University
+
+[14] Speech Recognition ([video](https://www.youtube.com/watch?v=HyUtT_z-cms)). Andrew Senior (2017), Google DeepMind
