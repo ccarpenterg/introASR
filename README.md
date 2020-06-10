@@ -45,4 +45,4 @@ This first notebook introduces some of the fundamental ideas of Automatic Speech
 
 [13] Neural Networks in Speech Recognition ([video](https://www.youtube.com/watch?v=6D8_4GkEWUg)). CS224d: NLP with Deep Learning (2015), Stanford University
 
-[14] Speech Recognition ([video](https://www.youtube.com/watch?v=HyUtT_z-cms)). Andrew Senior (2017), Google DeepMind
+[14] Speech Recognition ([video](https://www.youtube.com/watch?v=HyUtT_z-cms))([slides](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/Lecture%209%20-%20Speech%20Recognition.pdf)). Andrew Senior (2017), Google DeepMind
